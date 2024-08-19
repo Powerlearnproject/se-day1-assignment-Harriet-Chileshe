@@ -11,14 +11,14 @@ Answer:
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 Answer:
-      MILESTONE 1-Birth of software engineering (1968-Margaret Hamilton),its in this milestone that software engineering was recognised
-      as a distinct engineering discipline marking a shift from ad-hoc to sytematic approaches.
-      MILESTONE 2-Waterfall model and structured programming(1970).Linear phase by phase waterfal model (Winstone Royce) and structured 
-      programming top-down model (Edsger Dijkstra) approaches to software development were introduced during this milestone emphasizing on modular 
-      design as a way of bringing order and discipline to software development as well as improving quality and maintenance.
-      MILESTONE 3-Agile Revolution(1990s-2000s), this milestone challenged the the previous traditional,plan driven approaches with more a
-      flexible,iterative and team collaboration approach.This milestone saw a significance shift towards more adaptive,human centred approaches to
-      software engineering
+     1. MILESTONE 1-Birth of software engineering (1968-Margaret Hamilton),its in this milestone that software engineering was recognised
+        as a distinct engineering discipline marking a shift from ad-hoc to sytematic approaches.
+     2. MILESTONE 2-Waterfall model and structured programming(1970).Linear phase by phase waterfal model (Winstone Royce) and structured 
+        programming top-down model (Edsger Dijkstra) approaches to software development were introduced during this milestone emphasizing on modular 
+        design as a way of bringing order and discipline to software development as well as improving quality and maintenance.
+     3. MILESTONE 3-Agile Revolution(1990s-2000s), this milestone challenged the the previous traditional,plan driven approaches with more a
+        flexible,iterative and team collaboration approach.This milestone saw a significance shift towards more adaptive,human centred approaches to
+        software engineering
 
 List and briefly explain the phases of the Software Development Life Cycle.
 Answer:
